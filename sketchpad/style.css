@@ -1,0 +1,55 @@
+#wrapper {
+  width: 100%;
+  height: 100%;
+}
+#header {
+  width: 650px;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 25px;
+  margin: auto;
+  padding: 0;
+  background-color: #acb6e0;
+  color: black;
+  margin-bottom: 10px;
+  text-align: center;
+  line-height: 30px;
+}
+#title {
+  font-size: 24px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.button {
+  margin-top: 10px;
+}
+
+#main {
+  width: 650px;
+  height: 650px;
+  border: 2px solid black;
+  border-radius: 25px;
+  margin: auto;
+  padding: 0;
+  background-color: #acb6e0;
+}
+#container {
+  border: 2px solid black;
+  margin: auto;
+  padding: 0;
+  width: 600px;
+  height: 600px;
+  margin-top: 25px;
+  background-color: white;
+}
+.square {
+  display: inline-block;
+  border: 1px solid black;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  float: left;
+}
